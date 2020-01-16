@@ -1,4 +1,4 @@
-name: "Issue Labeler"
+name: "Issuer"
 description: "trigger an action based on issue comment"
 inputs:
   github-token:
